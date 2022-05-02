@@ -3,7 +3,7 @@
 #            / _ \ '__| '__/ _ \| '__| | || |_| | | | || |_ 
 #           |  __/ |  | | | (_) | |    |__   _| |_| |__   _|
 #            \___|_|  |_|  \___/|_||ANGEL||_|  \___/   |_|               
-# GITHUB - ERROR404 [ https://github.com/error404-notfound ]
+# GITHUB - ANDRES [ https://github.com/error404-notfound ]
 #  APP TEST - http://www.mediafire.com/file/b2p8w8v3d0z8p5m/LEON-TUNNEL-VPN.apk -
 
 import sys
@@ -74,6 +74,6 @@ for i in total:
  
 print("\n")
 print("\n")
-print("\nCompletado - Error404")
+print("\nCompletado - claveswificolombia")
 
 
