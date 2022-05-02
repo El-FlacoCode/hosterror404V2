@@ -48,7 +48,7 @@ for i in l:
                 v=i+'.'+dom
                 eliminate(v)
 link=[]
-url="https://www.virustotal.com/en/domain/"+dom+"/information/"
+url="https://www.virustotal.com/gui/domain/"+dom+"/details/"
 r=requests.get(url)
 t=r.text
 f=open("Angel.txt","w")
